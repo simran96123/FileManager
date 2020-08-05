@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27960146410",
+    "firebase_url": "https://data-storage-82824.firebaseio.com",
+    "project_id": "data-storage-82824",
+    "storage_bucket": "data-storage-82824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27960146410:android:4055ed7103c91cd13c5a93",
+        "android_client_info": {
+          "package_name": "com.example.file_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27960146410-pouak3gqd0koq2vq4u2i9jckoi85b1on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.file_manager",
+            "certificate_hash": "92eaa1bbaa8cbfd5ca26bbff1856bc4a98b1789e"
+          }
+        },
+        {
+          "client_id": "27960146410-uu247kj06ufep3moii8sns6uftee0pka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVI6AewDbeyYRGKZWnwuaLT3St3qAaxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27960146410-uu247kj06ufep3moii8sns6uftee0pka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
